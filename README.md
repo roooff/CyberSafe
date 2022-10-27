@@ -3,3 +3,4 @@
 ``
 var loadedModel = taccgl.objFile().read( '/objtest/roundcube/roundcube1.obj');
 taccgl.actor("examplediv", loadedModel.scene()) . rotateMiddle(1,1,1) . duration(10) .start();``
+``https://www.youtube.com/watch?v=TyOOpoUSuIM``
