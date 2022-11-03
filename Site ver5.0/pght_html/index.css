@@ -764,7 +764,7 @@ body {
 }
 
 body .center {
-  transform: translateY(-21px) translateZ(-870px) rotateX(0deg) rotateY(14deg) rotateZ(16deg) scale(0.5);
+  transform: translateY(-21px) translateZ(-870px) rotateX(0deg) rotateY(14deg) rotateZ(16deg) scale(0.8);
   height: 50px;
   width: 50px;
 }
