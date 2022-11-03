@@ -757,32 +757,16 @@ body {
   perspective-origin: 50% -10%;
   margin: 0;
   padding: 0;
-  font-family: ariel;
+  font-family: 'ariel';
   perspective: 800;
   background: radial-gradient(ellipse at top left, rgb(2, 0, 118) -160%, rgba(255, 255, 255, 0) 103%), -webkit-radial-gradient(center, ellipse cover, #0C1019 0%, #0B0B0E 100%);
   overflow: hidden;
 }
-body .grain {
-  transform: scale(1) !important;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/overlay.png");
-  left: 0;
-  right: 0;
-  margin: auto;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  z-index: 100;
-  pointer-events: none;
-  top: 0;
-  opacity: 1;
-  bottom: 0;
-}
+
 body .center {
-  transform: translateY(-21px) translateZ(-870px) rotateX(69deg) rotateY(-26deg) rotatez(-647deg) scale(0.9);
+  transform: translateY(-21px) translateZ(-870px) rotateX(0deg) rotateY(14deg) rotateZ(16deg) scale(0.3);
   height: 50px;
   width: 50px;
-  -webkit-animation: wiggle 20s infinite linear;
-          animation: wiggle 20s infinite linear;
 }
 body .center .core {
   width: 50px;
@@ -799,7 +783,7 @@ body .center .outer_one__piece {
   height: 30px;
   background: #0066ff;
   box-shadow: 0px 0px 20px 0px #0066ff;
-  transform-origin: 120px 0px;
+  transform-origin: 110px 0px;
 }
 body .center .outer_two {
   transform: translateX(-290px) translateY(-50%);
@@ -845,7 +829,7 @@ body .center .pieces {
   transform: translateX(540px) translateY(-50%);
 }
 body .center .pieces .tip {
-  font-size: 17px;
+  font-size: 20px;
   position: absolute;
   left: 105%;
   opacity: 0;
@@ -878,13 +862,14 @@ body .center .pieces .future_ui__piece {
   position: absolute;
   font-weight: 900;
   padding: 30px;
-  font-size: 30px;
+  font-size: 36px;
   box-shadow: 0px 0px 25px rgba(11, 138, 222, 0.27);
   transform-style: preserve-3d;
   transition: all 1s 0.1s;
   color: white;
   text-align: left;
-  height: 20px;
+  height: 30px;
+  width: 90px;
   background: transparent;
   color: white;
   border-radius: 100px !important;
@@ -935,7 +920,7 @@ body .center .pieces .future_ui__piece:nth-of-type(2):hover {
   box-shadow: 0px 0px 55px rgba(11, 74, 222, 0.77);
 }
 body .center .pieces .future_ui__piece:nth-of-type(2):hover span {
-  position: absolute;
+  position: absolute; 
   top: 12px;
   width: 270px;
   text-shadow: 0px 13px 0px rgba(30, 30, 30, 0.4);
@@ -958,7 +943,7 @@ body .center .pieces .future_ui__piece:nth-of-type(3) {
 body .center .pieces .future_ui__piece:nth-of-type(3):hover {
   cursor: pointer;
   color: white;
-  -webkit-animation: blink 0.4s 0.4s;
+  -webkit-animation: blink 04s 0.4s;
           animation: blink 0.4s 0.4s;
   background: #0066ff;
   transform: rotate(-25deg) translatex(20px);
