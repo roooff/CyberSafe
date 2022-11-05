@@ -2272,12 +2272,25 @@ p{
 
 .collapsible-content .content-inner {
   width: auto;
+  height: auto;
   background: rgba(66, 238, 250, 0.2);
   border-bottom: 4px solid rgba(18, 161, 205, 0.45);
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
+  border-radius: 2vh;
   padding: .5rem 1rem;
   text-indent: 20px;
+}
+
+body::-webkit-scrollbar {
+  width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
 }
 
 
@@ -2368,7 +2381,13 @@ p{
 	  top: -130px;
 	  width: 450px;
       height: 450px;
+	  font-weight: 900z`;
   
+}
+
+iframe {
+	border-radius: 2vh;
+box-shadow: -6px -3px 40px 2px rgba(0, 32, 115, 0.31);
 }
 
 /*SLOGAN*/
@@ -2378,7 +2397,26 @@ p{
 	position:absolute;
 	left: 80px;
 	top: 145px;
+  animation: slide-right 4s ease-in;
 	
+}
+
+li {
+  list-style: none;
+}
+
+li:before {
+  content: '✓';
+  color: green;
+}
+
+@keyframes slide-right{
+  from{
+    margin-left:-100%
+  }
+  to{
+    margin-left:0;
+  }
 }
 
 .popuppage {
@@ -2389,6 +2427,7 @@ p{
   width: 30%;
   position: relative;
   transition: all 5s ease-in-out;
+  border-radius: 2vh;
 }
 
 .popuppage h2 {
