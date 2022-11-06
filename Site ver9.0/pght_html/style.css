@@ -1,3 +1,4 @@
+/*Body Styling*/
 body {
 	overflow: scroll;
 }
@@ -20,6 +21,8 @@ body .center .pieces, body .center .outer_five, body .center .outer_four, body .
   left: 50%;
 }
 
+
+/*Fade Animation*/
 body .center .outer_three__piece:nth-of-type(1), body .center .outer_two__piece:nth-of-type(1) {
   -webkit-animation: fade 5s 0.1s infinite;
           animation: fade 5s 0.1s infinite;
@@ -310,6 +313,8 @@ body .center .outer_five__piece:nth-of-type(36), body .center .outer_four__piece
           animation: fade 7s 3.6s infinite;
 }
 
+
+/*Button Styling - Rotating*/
 body .center .pieces .future_ui__piece, body .center .outer_two__piece, body .center .outer_one__piece {
   position: absolute;
 }
@@ -2390,17 +2395,8 @@ iframe {
 box-shadow: -6px -3px 40px 2px rgba(0, 32, 115, 0.31);
 }
 
-/*SLOGAN*/
-.slogan {
-	font-size: 25px;
-	font-family: Bahnschrift;
-	position:absolute;
-	left: 60px;
-	top: 145px;
-  animation: slide-right 4s ease-in;
-	
-}
 
+/*Styling menu*/
 li {
   list-style: none;
 }
@@ -2410,14 +2406,6 @@ li:before {
   color: green;
 }
 
-@keyframes slide-right{
-  from{
-    margin-left:-100%
-  }
-  to{
-    margin-left:0;
-  }
-}
 
 .popuppage {
   margin: 70px auto;
