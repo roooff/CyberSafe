@@ -22,7 +22,6 @@ C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\scopedcss\bundle\CyberSafe.styles.css
-C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\scopedcss\projectbundle\CyberSafe.bundle.scp.css
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\CyberSafe.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\refint\CyberSafe.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\CyberSafe.pdb
@@ -242,4 +241,3 @@ C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\bin\Debug\
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\CyberSafe.csproj.CopyComplete
-C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe\obj\Debug\net7.0\scopedcss\Views\Shared\_CyberSafeKids.cshtml.rz.scp.css

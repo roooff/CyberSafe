@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GzDHl8W/S/AUjG/phwEcr39nL/5irxHBkKmTKybJ58s=",
+  "Hash": "zm0xC2jhLZDX7NLJuJQ9wqSv9jl8W1q4BNEvCVjQSC4=",
   "Source": "CyberSafe",
   "BasePath": "_content/CyberSafe",
   "Mode": "Default",
@@ -17,46 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CyberSafe.styles.css",
-      "SourceId": "CyberSafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/CyberSafe",
-      "RelativePath": "CyberSafe.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CyberSafe.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CyberSafe.bundle.scp.css",
-      "SourceId": "CyberSafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/CyberSafe",
-      "RelativePath": "CyberSafe.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CyberSafe.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\css\\Site.css",
       "SourceId": "CyberSafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\",
       "BasePath": "_content/CyberSafe",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/Site.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\Site.css"
     },
     {
       "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\favicon.ico",
@@ -85,12 +51,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\js\\Site.js",
       "SourceId": "CyberSafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\",
       "BasePath": "_content/CyberSafe",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/Site.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\Site.js"
     },
     {
       "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

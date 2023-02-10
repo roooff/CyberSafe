@@ -1,4 +1,10 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
+﻿$(function () {
+    $(window).scroll(function () {
+        var winTop = $(window).scrollTop();
+        if (winTop >= 30) {
+            $("body").addClass("sticky-header");
+        } else {
+            $("body").removeClass("sticky-header");
+        }//if-else
+    });//win func.
+});//ready func.

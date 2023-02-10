@@ -1,20 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CyberSafe.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CyberSafe.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\css\\Site.css",
+      "PackagePath": "staticwebassets\\css\\Site.css"
     },
     {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\js\\Site.js",
+      "PackagePath": "staticwebassets\\js\\Site.js"
     },
     {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\lib\\bootstrap\\LICENSE",

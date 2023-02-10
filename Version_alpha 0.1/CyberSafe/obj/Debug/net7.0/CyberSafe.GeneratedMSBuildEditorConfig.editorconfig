@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\rooof\Documents\GtiHub\CyberSafe\Version_alpha 0.1\CyberSafe
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rooof/Documents/GtiHub/CyberSafe/Version_alpha 0.1/CyberSafe/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/rooof/Documents/GtiHub/CyberSafe/Version_alpha 0.1/CyberSafe/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rooof/Documents/GtiHub/CyberSafe/Version_alpha 0.1/CyberSafe/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/rooof/Documents/GtiHub/CyberSafe/Version_alpha 0.1/CyberSafe/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rooof/Documents/GtiHub/CyberSafe/Version_alpha 0.1/CyberSafe/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/rooof/Documents/GtiHub/CyberSafe/Version_alpha 0.1/CyberSafe/Views/Shared/_ValidationScriptsPartial.cshtml]
