@@ -17,11 +17,8 @@ namespace CyberSafe.Controllers
         {
             return View();
         }
-        public IActionResult About()
-        {
-            return View();
-        }
-        // o stili
+        
+       
 
     
         
