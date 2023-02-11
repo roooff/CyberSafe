@@ -1,16 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\css\\StyleSheet.css",
-      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
-    },
-    {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\js\\JavaScript.js",
-      "PackagePath": "staticwebassets\\js\\JavaScript.js"
     },
     {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\lib\\bootstrap\\LICENSE",

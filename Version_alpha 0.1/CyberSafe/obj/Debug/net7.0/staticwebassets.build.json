@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qe7r6xy+1W3/ggEWpKiP1Qbq/5vJhAevjeGpkXijn/A=",
+  "Hash": "wkEPdA0/K3EtdpylzY1eQT0qcTfTqf/+YXL3F0AsUjI=",
   "Source": "CyberSafe",
   "BasePath": "_content/CyberSafe",
   "Mode": "Default",
@@ -17,23 +17,6 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\css\\StyleSheet.css",
-      "SourceId": "CyberSafe",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\",
-      "BasePath": "_content/CyberSafe",
-      "RelativePath": "css/StyleSheet.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
-    },
-    {
       "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\favicon.ico",
       "SourceId": "CyberSafe",
       "SourceType": "Discovered",
@@ -49,23 +32,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\js\\JavaScript.js",
-      "SourceId": "CyberSafe",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\",
-      "BasePath": "_content/CyberSafe",
-      "RelativePath": "js/JavaScript.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\JavaScript.js"
     },
     {
       "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\Version_alpha 0.1\\CyberSafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
