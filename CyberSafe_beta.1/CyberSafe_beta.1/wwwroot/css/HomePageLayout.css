@@ -1,4 +1,8 @@
 /* Menu Dropdown */
+* {
+    background-image: logo-black.png;
+}
+
 .cf:before,
 .cf:after {
     content: " ";

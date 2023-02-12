@@ -28,7 +28,6 @@ C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\Debug\net6.0\CyberSafe_beta.1.pdb
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\Debug\net6.0\CyberSafe_beta.1.genruntimeconfig.cache
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\Debug\net6.0\ref\CyberSafe_beta.1.dll
-C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\Debug\net6.0\scopedcss\Views\Shared\_Home.cshtml.rz.scp.css
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\bin\Debug\net6.0\Humanizer.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\bin\Debug\net6.0\MessagePack.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -245,3 +244,4 @@ C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\bin\
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\Debug\net6.0\CyberSafe_beta.1.csproj.CopyComplete
+C:\Users\rooof\Documents\GtiHub\CyberSafe\CyberSafe_beta.1\CyberSafe_beta.1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
