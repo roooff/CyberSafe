@@ -1,6 +1,7 @@
 using CyberSafe.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
