@@ -13,12 +13,22 @@ namespace CyberSafe.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        /// <summary>
+        /// Nav bar: Services, About us, Login , Provacy , CyberLab
+        /// All nedded views:
+        /// 1. Home Page- The page where our site will load\
+        /// * We need info there
+        /// * Register and login option
+        ///
+        /// 2.
+        /// </summary>
+
+        public IActionResult Home()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult CyberLab()
         {
             return View();
         }
@@ -29,4 +39,3 @@ namespace CyberSafe.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
-}
