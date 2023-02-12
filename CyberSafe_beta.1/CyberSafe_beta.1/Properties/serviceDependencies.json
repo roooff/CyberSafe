@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mssql1": {
-      "type": "mssql",
-      "connectionId": "ConnectionStrings:CyberSafe_beta_1ContextConnection"
-    }
-  }
-}

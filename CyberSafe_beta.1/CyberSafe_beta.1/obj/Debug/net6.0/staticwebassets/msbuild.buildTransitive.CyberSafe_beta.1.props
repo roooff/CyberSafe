@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CyberSafe_beta.1.props" />
-</Project>
