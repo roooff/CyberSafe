@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CyberSafe_beta.1.props" />
+</Project>
