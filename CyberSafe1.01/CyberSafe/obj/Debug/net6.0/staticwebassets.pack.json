@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CyberSafe.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CyberSafe.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\css\\HomePageLayout.css",
+      "PackagePath": "staticwebassets\\css\\HomePageLayout.css"
     },
     {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\favicon.ico",

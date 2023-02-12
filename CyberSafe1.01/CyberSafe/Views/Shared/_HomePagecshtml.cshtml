@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link rel="stylesheet" type="text/css" href="~/css/HomePageLayout.css" />
+</head>
+<body>
+    <style>
+        .navbar {
+            background-color: rgba(0,0,0,0.3);
+        }
+    </style>
+
+
+    <header>
+      
+          
+                <ul class="menu cf">
+                    <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Home</a></li>
+                    <li>
+                        <a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Services</a>
+                        <ul class="submenu">
+                            <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Web design</a></li>
+                            <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Graphics design</a></li>
+                            <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">App development</a></li>
+                            <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Marketing</a></li>
+                </ul>
+                    </li>
+                    <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Blog</a></li>
+                    <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">About us</a></li>
+                    <li><a href="https://www.blogger.com/blogger.g?blogID=1719501309664700552">Contact us</a></li>
+      
+    
+       
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer class="bg-dark text-white py-3">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h4>Contact Us</h4>
+                    <p>123 Main St.<br>Cyber City, USA 12345</p>
+                </div>
+                <div class="col-md-3">
+                    <h4>Follow Us</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h4>Services</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Web Security</a></li>
+                        <li><a href="#">Data Encryption</a></li>
+                        <li><a href="#">Firewall Protection</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h4>Subscribe</h4>
+                    <form>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Enter email">
+                        </div>
+                        <button type="submit" class="btn btn-outline-light">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            <hr>
+            <p class="text-center">Copyright &copy; Cybersecurity 2023</p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
+
+

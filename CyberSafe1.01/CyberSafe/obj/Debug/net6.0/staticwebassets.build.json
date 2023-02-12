@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+ChT7rZPDdlrie+kDSbXbIp47WDrk8NCUVMu5/OwKwY=",
+  "Hash": "h3zMKaiVbvFeuqi1aX6ZwxIhIVZ5pk7ITeJtkHfKrs8=",
   "Source": "CyberSafe",
   "BasePath": "_content/CyberSafe",
   "Mode": "Default",
@@ -17,46 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CyberSafe.styles.css",
-      "SourceId": "CyberSafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/CyberSafe",
-      "RelativePath": "CyberSafe.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CyberSafe.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CyberSafe.bundle.scp.css",
-      "SourceId": "CyberSafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/CyberSafe",
-      "RelativePath": "CyberSafe.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CyberSafe.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\css\\HomePageLayout.css",
       "SourceId": "CyberSafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\",
       "BasePath": "_content/CyberSafe",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/HomePageLayout.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\HomePageLayout.css"
     },
     {
       "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafe1.01\\CyberSafe\\wwwroot\\favicon.ico",
