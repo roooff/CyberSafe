@@ -1,0 +1,31 @@
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\appsettings.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\Site ver 10.0.1.staticwebassets.runtime.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\Site ver 10.0.1.exe
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\Site ver 10.0.1.deps.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\Site ver 10.0.1.runtimeconfig.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\Site ver 10.0.1.dll
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\bin\Debug\net6.0\Site ver 10.0.1.pdb
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.csproj.AssemblyReference.cache
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.AssemblyInfoInputs.cache
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.AssemblyInfo.cs
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.csproj.CoreCompileInputs.cache
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.RazorAssemblyInfo.cache
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.RazorAssemblyInfo.cs
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets\msbuild.Site ver 10.0.1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets\msbuild.build.Site ver 10.0.1.props
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Site ver 10.0.1.props
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Site ver 10.0.1.props
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\scopedcss\bundle\Site ver 10.0.1.styles.css
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\scopedcss\projectbundle\Site ver 10.0.1.bundle.scp.css
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.dll
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\refint\Site ver 10.0.1.dll
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.pdb
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\Site ver 10.0.1.genruntimeconfig.cache
+C:\Users\rooof\Documents\GtiHub\CyberSafe\Site ver 10.0.1\Site ver 10.0.1\obj\Debug\net6.0\ref\Site ver 10.0.1.dll
