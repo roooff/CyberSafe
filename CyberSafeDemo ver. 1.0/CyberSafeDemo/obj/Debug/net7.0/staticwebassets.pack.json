@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\CyberSafeDemo.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\Screenshot_20230214_042652.png",
+      "PackagePath": "staticwebassets\\Screenshot_20230214_042652.png"
+    },
+    {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\cyber.png",
+      "PackagePath": "staticwebassets\\cyber.png"
     },
     {
       "Id": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\favicon.ico",

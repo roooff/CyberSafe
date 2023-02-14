@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ukXOR8grtFybp/GerPVczRpA+4kuEUWMqPIZ4dwgN0k=",
+  "Hash": "OEnO2yKCpZP7cdcI/x2njz2076RjRMRyszPek35rffg=",
   "Source": "CyberSafeDemo",
   "BasePath": "_content/CyberSafeDemo",
   "Mode": "Default",
@@ -1088,6 +1088,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\cyber.png",
+      "SourceId": "CyberSafeDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\",
+      "BasePath": "_content/CyberSafeDemo",
+      "RelativePath": "cyber.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cyber.png"
+    },
+    {
       "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\favicon.ico",
       "SourceId": "CyberSafeDemo",
       "SourceType": "Discovered",
@@ -2089,6 +2106,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\Screenshot_20230214_042652.png",
+      "SourceId": "CyberSafeDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rooof\\Documents\\GtiHub\\CyberSafe\\CyberSafeDemo ver. 1.0\\CyberSafeDemo\\wwwroot\\",
+      "BasePath": "_content/CyberSafeDemo",
+      "RelativePath": "Screenshot_20230214_042652.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshot_20230214_042652.png"
     }
   ]
 }

@@ -1,3 +1,13 @@
+/*Main Page Logo*/
+.main-page-img {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    float: left;
+    height: 150px;
+    width: 250px;
+    ;
+}
 /* Menu Dropdown */
 
 .cf:before,
@@ -22,7 +32,11 @@
 }
 
 .menu {
-    margin: 50px auto;
+    /*
+        Menu sizes :
+        Last chage margin
+    */
+    margin: 60px auto;
     width: 800px;
     width: -moz-fit-content;
     width: -webkit-fit-content;
@@ -55,9 +69,12 @@
     }
 
 /* Dropdown */
+/*
+
+*/
 .submenu {
     position: absolute;
-    width: 200px;
+    width: 220px;
     left: 50%;
     margin-left: -100px;
     transform: skewX(-25deg);
