@@ -13,6 +13,10 @@ namespace CyberSafeDemo.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// CyberSafe
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
@@ -23,7 +27,37 @@ namespace CyberSafeDemo.Controllers
             return View();
         }
 
-        public IActionResult LoginRegister()
+        public IActionResult CyberLab()
+        {
+            return View();
+        }
+
+        public IActionResult AbCyberLab()
+        {
+            return View();
+        }
+
+        public IActionResult Target()
+        {
+            return View();
+        }
+
+        public IActionResult Blog()
+        {
+            return View();
+        }
+
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+
+        public IActionResult Contacts()
+        {
+            return View();
+        }
+
+        public IActionResult Bio()
         {
             return View();
         }
